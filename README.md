@@ -1,34 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Take a look at this amazing animated site on this URL: https://metaversusbyafrin.netlify.app/
 
-## Getting Started
+The website is a single page Application that is built with Next13, Reactjs, TailwindCSS and most importantly Framer Motion for amazing Animation. 
 
-First, run the development server:
+Oh! I forgot to mention one thing that this website is fully responsive. It will easily fit any device with beautiful view....
+Enjoy!....
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot (18)](https://user-images.githubusercontent.com/125039325/224627400-8b495f64-169b-4df8-a23d-85026528c0e0.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/125039325/224627470-0e5c5e24-7d61-4de6-bc2e-79114123d77b.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/125039325/224627485-7f2c8755-7653-45a1-8618-b4733d0c97e5.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/125039325/224627494-72077889-6a96-4501-9a5d-4fe39800f9c2.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/125039325/224627495-92eb358b-00f6-42ce-ba55-15fa215edb7d.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/125039325/224627503-3db70397-8a0f-4e6e-b04f-a16432a1c956.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/125039325/224627506-b00c9aac-11d7-4667-a391-84328a1c30f2.png)
